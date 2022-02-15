@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.905aca8e.css",
+    "main.js": "/static/js/main.03608607.js",
+    "static/js/787.6d0dd041.chunk.js": "/static/js/787.6d0dd041.chunk.js",
+    "static/media/people.svg": "/static/media/people.f8a3662c7b6a9bd4534461444b9605f9.svg",
+    "static/media/brand-icon.svg": "/static/media/brand-icon.3f96ae6a766af394c0d1801f5238a3fa.svg",
+    "static/media/smallCart.svg": "/static/media/smallCart.6080c2c2ed32c4eed8467c6e9b448873.svg",
+    "static/media/cart.svg": "/static/media/cart.8d82a3e58d23e34dbea5f4cee2d225fa.svg",
+    "static/media/cartWhite.svg": "/static/media/cartWhite.d1b14a3f67f0b1c70825c2230397f5a4.svg",
+    "static/media/books.svg": "/static/media/books.4078359fa1ba0464701c8947e1bd6a96.svg",
+    "static/media/heart.svg": "/static/media/heart.b92e5de5cdbee69288e78b3a95f7703a.svg",
+    "static/media/search.svg": "/static/media/search.8a93f35d4d7740920cbdb3b0f9437e62.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.d2486e9a84ffb83dd0684e63ff90cdc8.svg",
+    "static/media/close.svg": "/static/media/close.8e33f434db7687a803d8cbab24b3b065.svg",
+    "static/media/plus.svg": "/static/media/plus.21f7ed91f5e0c45a250994bff5e7368f.svg",
+    "static/media/caretForward.svg": "/static/media/caretForward.bb9fd811734330a5e4fd5cf1a877e2e6.svg",
+    "static/media/caretBack.svg": "/static/media/caretBack.e6337636f9996ed5e004a1ab0c659b23.svg",
+    "static/media/minus.svg": "/static/media/minus.dea3a626a591243eb3ac3bbd1d097ef7.svg",
+    "main.905aca8e.css.map": "/static/css/main.905aca8e.css.map",
+    "main.03608607.js.map": "/static/js/main.03608607.js.map",
+    "787.6d0dd041.chunk.js.map": "/static/js/787.6d0dd041.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905aca8e.css",
+    "static/js/main.03608607.js"
+  ]
+}
